@@ -33,10 +33,11 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 ## Notes
 
 Describe any challenges encountered while building the app.
+I found it pretty straightforward thanks to the instructor. I did run into a problem where I had created the interface on the wrong java file which caused the code not to work and took me a whole day to figure out where the issue was, other than that issue everything else was good.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2020] [Julio Aguilar]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
